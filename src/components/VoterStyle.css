@@ -1,0 +1,19 @@
+.vote {
+   background-color: rgb(248, 241, 175);
+ 
+    width:"240px";
+    border-style: solid;  
+    margin: 10px;                   
+}
+.container{
+  margin-top: 80px;
+}
+.bgc{
+  height: 720px;
+}
+.options{
+  margin-left: 500px;
+  margin-top: 80px;
+  width: 300px;
+  height: 40px;
+}
