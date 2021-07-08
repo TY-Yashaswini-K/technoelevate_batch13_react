@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "react-assign3",
+=======
+  "name": "project2",
+>>>>>>> 162dcc64803b367e46e128a0c454951433135ce6
   "version": "0.1.0",
   "private": true,
   "dependencies": {
